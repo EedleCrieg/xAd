@@ -1,0 +1,1177 @@
+fileFormatVersion: 2
+guid: 9b48ff2f068c54120b7511bb2623b847
+timeCreated: 1473727888
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 10_red_large_outlines___Left
+    100002: 10_red_large_outlines___Left_2
+    100004: 11_bright_blue
+    100006: 11_bright_blue_2
+    100008: 11_bright_blue_3
+    100010: 11_bright_blue___corners
+    100012: 11_bright_blue___flyout
+    100014: 11_bright_blue___Left
+    100016: 12_large_dark_blue_squares1
+    100018: 12_large_dark_blue_squares2
+    100020: 12_large_dark_blue_squares3
+    100022: 12_large_dark_blue_squares4
+    100024: 12_large_dark_blue_squares___Left
+    100026: 13_background___Left
+    100028: 1_grid___Left
+    100030: 1_grid___Left_1
+    100032: 1_grid___Left_2
+    100034: 2_grid_lines___blue___Left
+    100036: 2_grid_lines___blue___Left_2
+    100038: 2_grid_lines___pink___Left
+    100040: 2_grid_lines___pink___Left_1
+    100042: 2_grid_lines___pink___Left_2
+    100044: 2_grid_lines___red___Left
+    100046: 2_grid_lines___red___Left_2
+    100048: 2_grid_lines___turqouise___Left
+    100050: 2_grid_lines___turqouise___Left_2
+    100052: 3_details_bright_green___Left
+    100054: 3_details_bright_green___Left___Circle
+    100056: 3_details_bright_green___Left___Square
+    100058: 4_details_bright_seafoam____Left
+    100060: 4_details_bright_seafoam____Left_2
+    100062: 5_black_square
+    100064: 5_black_square___Left
+    100066: 5_black_square___red
+    100068: 6_pale_blue_
+    100070: 6_pale_blue__2
+    100072: 6_pale_blue__3
+    100074: 6_pale_blue__4
+    100076: 6_pale_blue___array1
+    100078: 6_pale_blue___array2
+    100080: 6_pale_blue___array3
+    100082: 6_pale_blue___Left
+    100084: 7_pale_green_2
+    100086: 7_pale_green___array_1
+    100088: 7_pale_green___array_1_2
+    100090: 7_pale_green___Left
+    100092: 8_pale_light_blue___blinds1
+    100094: 8_pale_light_blue___blinds1_2
+    100096: 8_pale_light_blue___blinds1_3
+    100098: 8_pale_light_blue___blinds1_4
+    100100: 8_pale_light_blue___blinds1_5
+    100102: 8_pale_light_blue___Left
+    100104: 8_pale_light_blue___squares
+    100106: 8_pale_light_blue___squares_2
+    100108: 8_pale_light_blue___squares_3
+    100110: 8_pale_light_blue___squares_4
+    100112: 9_red_small___circles
+    100114: 9_red_small___dash
+    100116: 9_red_small___dot
+    100118: 9_red_small___Left
+    100120: 9_red_small___x
+    100122: Left_Marker___Geo
+    100124: Left_Marker___Suppliment
+    100126: Left_Marker_Face
+    100128: Left_Marker_Interior
+    100130: Mirrored
+    100132: Object_Occlussion
+    100134: //RootNode
+    400000: 10_red_large_outlines___Left
+    400002: 10_red_large_outlines___Left_2
+    400004: 11_bright_blue
+    400006: 11_bright_blue_2
+    400008: 11_bright_blue_3
+    400010: 11_bright_blue___corners
+    400012: 11_bright_blue___flyout
+    400014: 11_bright_blue___Left
+    400016: 12_large_dark_blue_squares1
+    400018: 12_large_dark_blue_squares2
+    400020: 12_large_dark_blue_squares3
+    400022: 12_large_dark_blue_squares4
+    400024: 12_large_dark_blue_squares___Left
+    400026: 13_background___Left
+    400028: 1_grid___Left
+    400030: 1_grid___Left_1
+    400032: 1_grid___Left_2
+    400034: 2_grid_lines___blue___Left
+    400036: 2_grid_lines___blue___Left_2
+    400038: 2_grid_lines___pink___Left
+    400040: 2_grid_lines___pink___Left_1
+    400042: 2_grid_lines___pink___Left_2
+    400044: 2_grid_lines___red___Left
+    400046: 2_grid_lines___red___Left_2
+    400048: 2_grid_lines___turqouise___Left
+    400050: 2_grid_lines___turqouise___Left_2
+    400052: 3_details_bright_green___Left
+    400054: 3_details_bright_green___Left___Circle
+    400056: 3_details_bright_green___Left___Square
+    400058: 4_details_bright_seafoam____Left
+    400060: 4_details_bright_seafoam____Left_2
+    400062: 5_black_square
+    400064: 5_black_square___Left
+    400066: 5_black_square___red
+    400068: 6_pale_blue_
+    400070: 6_pale_blue__2
+    400072: 6_pale_blue__3
+    400074: 6_pale_blue__4
+    400076: 6_pale_blue___array1
+    400078: 6_pale_blue___array2
+    400080: 6_pale_blue___array3
+    400082: 6_pale_blue___Left
+    400084: 7_pale_green_2
+    400086: 7_pale_green___array_1
+    400088: 7_pale_green___array_1_2
+    400090: 7_pale_green___Left
+    400092: 8_pale_light_blue___blinds1
+    400094: 8_pale_light_blue___blinds1_2
+    400096: 8_pale_light_blue___blinds1_3
+    400098: 8_pale_light_blue___blinds1_4
+    400100: 8_pale_light_blue___blinds1_5
+    400102: 8_pale_light_blue___Left
+    400104: 8_pale_light_blue___squares
+    400106: 8_pale_light_blue___squares_2
+    400108: 8_pale_light_blue___squares_3
+    400110: 8_pale_light_blue___squares_4
+    400112: 9_red_small___circles
+    400114: 9_red_small___dash
+    400116: 9_red_small___dot
+    400118: 9_red_small___Left
+    400120: 9_red_small___x
+    400122: Left_Marker___Geo
+    400124: Left_Marker___Suppliment
+    400126: Left_Marker_Face
+    400128: Left_Marker_Interior
+    400130: Mirrored
+    400132: Object_Occlussion
+    400134: //RootNode
+    2300000: 10_red_large_outlines___Left_2
+    2300002: 11_bright_blue
+    2300004: 11_bright_blue_2
+    2300006: 11_bright_blue_3
+    2300008: 11_bright_blue___corners
+    2300010: 11_bright_blue___flyout
+    2300012: 12_large_dark_blue_squares1
+    2300014: 12_large_dark_blue_squares2
+    2300016: 12_large_dark_blue_squares3
+    2300018: 12_large_dark_blue_squares4
+    2300020: 1_grid___Left_1
+    2300022: 1_grid___Left_2
+    2300024: 2_grid_lines___blue___Left_2
+    2300026: 2_grid_lines___pink___Left_1
+    2300028: 2_grid_lines___pink___Left_2
+    2300030: 2_grid_lines___red___Left_2
+    2300032: 2_grid_lines___turqouise___Left_2
+    2300034: 3_details_bright_green___Left___Circle
+    2300036: 3_details_bright_green___Left___Square
+    2300038: 4_details_bright_seafoam____Left_2
+    2300040: 5_black_square
+    2300042: 5_black_square___red
+    2300044: 6_pale_blue_
+    2300046: 6_pale_blue__2
+    2300048: 6_pale_blue__3
+    2300050: 6_pale_blue__4
+    2300052: 6_pale_blue___array1
+    2300054: 6_pale_blue___array2
+    2300056: 6_pale_blue___array3
+    2300058: 7_pale_green_2
+    2300060: 7_pale_green___array_1
+    2300062: 7_pale_green___array_1_2
+    2300064: 8_pale_light_blue___blinds1
+    2300066: 8_pale_light_blue___blinds1_2
+    2300068: 8_pale_light_blue___blinds1_3
+    2300070: 8_pale_light_blue___blinds1_4
+    2300072: 8_pale_light_blue___blinds1_5
+    2300074: 8_pale_light_blue___squares
+    2300076: 8_pale_light_blue___squares_2
+    2300078: 8_pale_light_blue___squares_3
+    2300080: 8_pale_light_blue___squares_4
+    2300082: 9_red_small___circles
+    2300084: 9_red_small___dash
+    2300086: 9_red_small___dot
+    2300088: 9_red_small___x
+    2300090: Left_Marker_Face
+    2300092: Left_Marker_Interior
+    2300094: Object_Occlussion
+    3300000: 10_red_large_outlines___Left_2
+    3300002: 11_bright_blue
+    3300004: 11_bright_blue_2
+    3300006: 11_bright_blue_3
+    3300008: 11_bright_blue___corners
+    3300010: 11_bright_blue___flyout
+    3300012: 12_large_dark_blue_squares1
+    3300014: 12_large_dark_blue_squares2
+    3300016: 12_large_dark_blue_squares3
+    3300018: 12_large_dark_blue_squares4
+    3300020: 1_grid___Left_1
+    3300022: 1_grid___Left_2
+    3300024: 2_grid_lines___blue___Left_2
+    3300026: 2_grid_lines___pink___Left_1
+    3300028: 2_grid_lines___pink___Left_2
+    3300030: 2_grid_lines___red___Left_2
+    3300032: 2_grid_lines___turqouise___Left_2
+    3300034: 3_details_bright_green___Left___Circle
+    3300036: 3_details_bright_green___Left___Square
+    3300038: 4_details_bright_seafoam____Left_2
+    3300040: 5_black_square
+    3300042: 5_black_square___red
+    3300044: 6_pale_blue_
+    3300046: 6_pale_blue__2
+    3300048: 6_pale_blue__3
+    3300050: 6_pale_blue__4
+    3300052: 6_pale_blue___array1
+    3300054: 6_pale_blue___array2
+    3300056: 6_pale_blue___array3
+    3300058: 7_pale_green_2
+    3300060: 7_pale_green___array_1
+    3300062: 7_pale_green___array_1_2
+    3300064: 8_pale_light_blue___blinds1
+    3300066: 8_pale_light_blue___blinds1_2
+    3300068: 8_pale_light_blue___blinds1_3
+    3300070: 8_pale_light_blue___blinds1_4
+    3300072: 8_pale_light_blue___blinds1_5
+    3300074: 8_pale_light_blue___squares
+    3300076: 8_pale_light_blue___squares_2
+    3300078: 8_pale_light_blue___squares_3
+    3300080: 8_pale_light_blue___squares_4
+    3300082: 9_red_small___circles
+    3300084: 9_red_small___dash
+    3300086: 9_red_small___dot
+    3300088: 9_red_small___x
+    3300090: Left_Marker_Face
+    3300092: Left_Marker_Interior
+    3300094: Object_Occlussion
+    4300000: Object_Occlussion
+    4300002: Left_Marker_Interior
+    4300004: Left_Marker_Face
+    4300006: 1_grid___Left_2
+    4300008: 1_grid___Left_1
+    4300010: 2_grid_lines___turqouise___Left_2
+    4300012: 2_grid_lines___red___Left_2
+    4300014: 2_grid_lines___pink___Left_2
+    4300016: 2_grid_lines___pink___Left_1
+    4300018: 2_grid_lines___blue___Left_2
+    4300020: 3_details_bright_green___Left___Circle
+    4300022: 3_details_bright_green___Left___Square
+    4300024: 4_details_bright_seafoam____Left_2
+    4300026: 5_black_square___red
+    4300028: 5_black_square
+    4300030: 6_pale_blue___array1
+    4300032: 6_pale_blue___array2
+    4300034: 6_pale_blue___array3
+    4300036: 6_pale_blue_
+    4300038: 6_pale_blue__2
+    4300040: 6_pale_blue__3
+    4300042: 6_pale_blue__4
+    4300044: 7_pale_green___array_1
+    4300046: 7_pale_green___array_1_2
+    4300048: 7_pale_green_2
+    4300050: 8_pale_light_blue___blinds1
+    4300052: 8_pale_light_blue___blinds1_2
+    4300054: 8_pale_light_blue___blinds1_3
+    4300056: 8_pale_light_blue___blinds1_4
+    4300058: 8_pale_light_blue___blinds1_5
+    4300060: 8_pale_light_blue___squares
+    4300062: 8_pale_light_blue___squares_2
+    4300064: 8_pale_light_blue___squares_3
+    4300066: 8_pale_light_blue___squares_4
+    4300068: 9_red_small___circles
+    4300070: 9_red_small___x
+    4300072: 9_red_small___dash
+    4300074: 9_red_small___dot
+    4300076: 10_red_large_outlines___Left_2
+    4300078: 11_bright_blue___flyout
+    4300080: 11_bright_blue
+    4300082: 11_bright_blue_2
+    4300084: 11_bright_blue_3
+    4300086: 12_large_dark_blue_squares1
+    4300088: 12_large_dark_blue_squares2
+    4300090: 12_large_dark_blue_squares3
+    4300092: 12_large_dark_blue_squares4
+    4300094: 11_bright_blue___corners
+    7400000: IDLE-Left
+    7400002: Scene1 - Left
+    7400004: Scene2 - Left
+    7400006: Scene3 - Left
+    7400008: Scene4 - Left
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IDLE-Left
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Left_Marker___Geo
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left/1_grid___Left_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left/1_grid___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___blue___Left/2_grid_lines___blue___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left/2_grid_lines___pink___Left_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left/2_grid_lines___pink___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___red___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___red___Left/2_grid_lines___red___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___turqouise___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___turqouise___Left/2_grid_lines___turqouise___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left/3_details_bright_green___Left___Circle
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left/3_details_bright_green___Left___Square
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/4_details_bright_seafoam____Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/4_details_bright_seafoam____Left/4_details_bright_seafoam____Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left/5_black_square
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left/5_black_square___red
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue_
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___circles
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___dot
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/10_red_large_outlines___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/10_red_large_outlines___Left/10_red_large_outlines___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___corners
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue___flyout
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/13_background___Left
+        weight: 1
+      - path: Left_Marker___Suppliment
+        weight: 1
+      - path: Left_Marker___Suppliment/Left_Marker_Face
+        weight: 1
+      - path: Left_Marker___Suppliment/Left_Marker_Interior
+        weight: 1
+      - path: Left_Marker___Suppliment/Object_Occlussion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Scene1 - Left
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Left_Marker___Geo
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left/1_grid___Left_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left/1_grid___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___blue___Left/2_grid_lines___blue___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left/2_grid_lines___pink___Left_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left/2_grid_lines___pink___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___red___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___red___Left/2_grid_lines___red___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___turqouise___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___turqouise___Left/2_grid_lines___turqouise___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left/3_details_bright_green___Left___Circle
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left/3_details_bright_green___Left___Square
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/4_details_bright_seafoam____Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/4_details_bright_seafoam____Left/4_details_bright_seafoam____Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left/5_black_square
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left/5_black_square___red
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue_
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___circles
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___dot
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/10_red_large_outlines___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/10_red_large_outlines___Left/10_red_large_outlines___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___corners
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue___flyout
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/13_background___Left
+        weight: 1
+      - path: Left_Marker___Suppliment
+        weight: 1
+      - path: Left_Marker___Suppliment/Left_Marker_Face
+        weight: 1
+      - path: Left_Marker___Suppliment/Left_Marker_Interior
+        weight: 1
+      - path: Left_Marker___Suppliment/Object_Occlussion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Scene2 - Left
+      takeName: C4D Animation Take
+      firstFrame: 301
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Left_Marker___Geo
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left/1_grid___Left_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left/1_grid___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___blue___Left/2_grid_lines___blue___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left/2_grid_lines___pink___Left_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left/2_grid_lines___pink___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___red___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___red___Left/2_grid_lines___red___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___turqouise___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___turqouise___Left/2_grid_lines___turqouise___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left/3_details_bright_green___Left___Circle
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left/3_details_bright_green___Left___Square
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/4_details_bright_seafoam____Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/4_details_bright_seafoam____Left/4_details_bright_seafoam____Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left/5_black_square
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left/5_black_square___red
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue_
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___circles
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___dot
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/10_red_large_outlines___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/10_red_large_outlines___Left/10_red_large_outlines___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___corners
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue___flyout
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/13_background___Left
+        weight: 1
+      - path: Left_Marker___Suppliment
+        weight: 1
+      - path: Left_Marker___Suppliment/Left_Marker_Face
+        weight: 1
+      - path: Left_Marker___Suppliment/Left_Marker_Interior
+        weight: 1
+      - path: Left_Marker___Suppliment/Object_Occlussion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Scene3 - Left
+      takeName: C4D Animation Take
+      firstFrame: 601
+      lastFrame: 900
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Left_Marker___Geo
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left/1_grid___Left_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left/1_grid___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___blue___Left/2_grid_lines___blue___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left/2_grid_lines___pink___Left_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left/2_grid_lines___pink___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___red___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___red___Left/2_grid_lines___red___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___turqouise___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___turqouise___Left/2_grid_lines___turqouise___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left/3_details_bright_green___Left___Circle
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left/3_details_bright_green___Left___Square
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/4_details_bright_seafoam____Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/4_details_bright_seafoam____Left/4_details_bright_seafoam____Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left/5_black_square
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left/5_black_square___red
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue_
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___circles
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___dot
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/10_red_large_outlines___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/10_red_large_outlines___Left/10_red_large_outlines___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___corners
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue___flyout
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/13_background___Left
+        weight: 1
+      - path: Left_Marker___Suppliment
+        weight: 1
+      - path: Left_Marker___Suppliment/Left_Marker_Face
+        weight: 1
+      - path: Left_Marker___Suppliment/Left_Marker_Interior
+        weight: 1
+      - path: Left_Marker___Suppliment/Object_Occlussion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Scene4 - Left
+      takeName: C4D Animation Take
+      firstFrame: 901
+      lastFrame: 1200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Left_Marker___Geo
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left/1_grid___Left_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/1_grid___Left/1_grid___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___blue___Left/2_grid_lines___blue___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left/2_grid_lines___pink___Left_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___pink___Left/2_grid_lines___pink___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___red___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___red___Left/2_grid_lines___red___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___turqouise___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/2_grid_lines___turqouise___Left/2_grid_lines___turqouise___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left/3_details_bright_green___Left___Circle
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/3_details_bright_green___Left/3_details_bright_green___Left___Square
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/4_details_bright_seafoam____Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/4_details_bright_seafoam____Left/4_details_bright_seafoam____Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left/5_black_square
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/5_black_square___Left/5_black_square___red
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue_
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue__4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/6_pale_blue___Left/6_pale_blue___array3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green___array_1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/7_pale_green___Left/7_pale_green___array_1_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___blinds1_5
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/8_pale_light_blue___Left/8_pale_light_blue___squares_4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___circles
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___dash
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___dot
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/9_red_small___Left/9_red_small___x
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/10_red_large_outlines___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/10_red_large_outlines___Left/10_red_large_outlines___Left_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___corners
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue_2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue_3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/11_bright_blue___Left/11_bright_blue___flyout
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares1
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares2
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares3
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/12_large_dark_blue_squares___Left/12_large_dark_blue_squares4
+        weight: 1
+      - path: Left_Marker___Geo/Mirrored/13_background___Left
+        weight: 1
+      - path: Left_Marker___Suppliment
+        weight: 1
+      - path: Left_Marker___Suppliment/Left_Marker_Face
+        weight: 1
+      - path: Left_Marker___Suppliment/Left_Marker_Interior
+        weight: 1
+      - path: Left_Marker___Suppliment/Object_Occlussion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
